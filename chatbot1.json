@@ -1,0 +1,1001 @@
+[
+  {
+    "name": "chatbot/{chatbot-9jvp}/agent/intents/computer_basics",
+    "displayName": "Computer Basics",
+    "trainingPhrases": [
+      {
+        "parts": [
+          {
+            "text": "What is a computer?"
+          }
+        ]
+      }
+    ],
+    "messages": [
+      {
+        "text": {
+          "text": [
+            "A computer is an electronic device that processes data, performs calculations, and executes instructions to perform various tasks."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "chatbot/{chatbot-9jvp}/agent/intents/input_devices",
+    "displayName": "Input Devices",
+    "trainingPhrases": [
+      {
+        "parts": [
+          {
+            "text": "What are input devices?"
+          }
+        ]
+      }
+    ],
+    "messages": [
+      {
+        "text": {
+          "text": [
+            "Input devices are hardware components used to input data into a computer. Examples include keyboards, mice, and scanners."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "chatbot/{chatbot-9jvp}/agent/intents/output_devices",
+    "displayName": "Output Devices",
+    "trainingPhrases": [
+      {
+        "parts": [
+          {
+            "text": "What are output devices?"
+          }
+        ]
+      }
+    ],
+    "messages": [
+      {
+        "text": {
+          "text": [
+            "Output devices are hardware components that receive data from a computer and present it to the user. Examples include monitors, printers, and speakers."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "chatbot/{chatbot-9jvp}/agent/intents/storage_devices",
+    "displayName": "Storage Devices",
+    "trainingPhrases": [
+      {
+        "parts": [
+          {
+            "text": "What are storage devices?"
+          }
+        ]
+      }
+    ],
+    "messages": [
+      {
+        "text": {
+          "text": [
+            "Storage devices are used to store data and information. Examples include hard drives, USB flash drives, and CDs."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "projects/{chatbot-9jvp}/agent/intents/software_types",
+    "displayName": "Software Types",
+    "trainingPhrases": [
+      {
+        "parts": [
+          {
+            "text": "What are the types of software?"
+          }
+        ]
+      }
+    ],
+    "messages": [
+      {
+        "text": {
+          "text": [
+            "The two main types of software are system software, which manages hardware and software resources, and application software, which performs specific tasks for users."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "projects/{chatbot-9jvp}/agent/intents/operating_system",
+    "displayName": "Operating System",
+    "trainingPhrases": [
+      {
+        "parts": [
+          {
+            "text": "What is an operating system?"
+          }
+        ]
+      }
+    ],
+    "messages": [
+      {
+        "text": {
+          "text": [
+            "An operating system is system software that manages computer hardware and software resources and provides services for computer programs."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "projects/{chatbot-9jvp}/agent/intents/word_processing",
+    "displayName": "Word Processing",
+    "trainingPhrases": [
+      {
+        "parts": [
+          {
+            "text": "What is word processing software?"
+          }
+        ]
+      }
+    ],
+    "messages": [
+      {
+        "text": {
+          "text": [
+            "Word processing software is used to create, edit, format, and print text documents. Examples include Microsoft Word and Google Docs."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "projects/{chatbot-9jvp}/agent/intents/spreadsheet_basics",
+    "displayName": "Spreadsheet Basics",
+    "trainingPhrases": [
+      {
+        "parts": [
+          {
+            "text": "What is a spreadsheet?"
+          }
+        ]
+      }
+    ],
+    "messages": [
+      {
+        "text": {
+          "text": [
+            "Spreadsheet software allows you to organize, analyze, and visualize data in tabular form. You can perform calculations, create graphs, and manage data easily."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "projects/{chatbot-9jvp}/agent /intents/presentation_software",
+    "displayName": "Presentation Software",
+    "trainingPhrases": [
+      {
+        "parts": [
+          {
+            "text": "What is presentation software used for?"
+          }
+        ]
+      }
+    ],
+    "messages": [
+      {
+        "text": {
+          "text": [
+            "Presentation software is used to create slideshows composed of text, images, and other media. Examples include Microsoft PowerPoint and Google Slides."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "projects/{chatbot-9jvp}/agent/intents/internet_basics",
+    "displayName": "Internet Basics",
+    "trainingPhrases": [
+      {
+        "parts": [
+          {
+            "text": "What is the internet?"
+          }
+        ]
+      }
+    ],
+    "messages": [
+      {
+        "text": {
+          "text": [
+            "The internet is a global network of interconnected computers that communicate using standardized protocols. It allows for the sharing of information and resources."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "projects/{chatbot-9jvp}/agent/intents/web_browsers",
+    "displayName": "Web Browsers",
+    "trainingPhrases": [
+      {
+        "parts": [
+          {
+            "text": "What is a web browser?"
+          }
+        ]
+      }
+    ],
+    "messages": [
+      {
+        "text": {
+          "text": [
+            "A web browser is a software application used to access and view websites. Examples include Google Chrome, Mozilla Firefox, and Safari."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "projects/{chatbot-9jvp}/agent/intents/email_basics",
+    "displayName": "Email Basics",
+    "trainingPhrases": [
+      {
+        "parts": [
+          {
+            "text": "What is email?"
+          }
+        ]
+      }
+    ],
+    "messages": [
+      {
+        "text": {
+          "text": [
+            "Email is a method of exchanging digital messages over the internet. It allows users to send and receive messages, documents, and files."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "projects/{chatbot-9jvp}/agent/intents/social_media",
+    "displayName": "Social Media",
+    "trainingPhrases": [
+      {
+        "parts": [
+          {
+            "text": "What is social media?"
+          }
+        ]
+      }
+    ],
+    "messages": [
+      {
+        "text": {
+          "text": [
+            "Social media refers to websites and applications that enable users to create and share content or participate in social networking. Examples include Facebook, Twitter, and Instagram."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "projects/{chatbot-9jvp/agent/intents/cyber_safety",
+    "displayName": "Cyber Safety",
+    "trainingPhrases": [
+      {
+        "parts": [
+          {
+            "text": "What is cyber safety?"
+          }
+        ]
+      }
+    ],
+    "messages": [
+      {
+        "text": {
+          "text": [
+            "Cyber safety refers to the practice of protecting yourself and your information while using the internet. It includes understanding privacy settings, recognizing scams, and safe browsing habits."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "projects/{chatbot-9jvp}/agent/intents/data_types",
+    "displayName": "Data Types",
+    "trainingPhrases": [
+      {
+        "parts": [
+          {
+            "text": "What are data types in programming?"
+          }
+        ]
+      }
+    ],
+    "messages": [
+      {
+        "text": {
+          "text": [
+            "Data types are classifications of data that tell the compiler or interpreter how the programmer intends to use the data. Common data types include integers, floats, strings, and booleans."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "projects/{chatbot-9jvp}/agent/intents/algorithms",
+    "displayName": "Algorithms",
+    "trainingPhrases": [
+      {
+        "parts": [
+          {
+            "text": "What is an algorithm?"
+          }
+        ]
+      }
+    ],
+    "messages": [
+      {
+        "text": {
+          "text": [
+            "An algorithm is a step-by-step procedure or formula for solving a problem. It is a sequence of instructions that can be followed to achieve a specific goal."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "projects/{chatbot-9jvp}/agent/intents/programming_languages",
+    "displayName": "Programming Languages",
+    "trainingPhrases": [
+      {
+        "parts": [
+          {
+            " text": "What are programming languages?"
+          }
+        ]
+      }
+    ],
+    "messages": [
+      {
+        "text": {
+          "text": [
+            "Programming languages are formal languages comprising a set of instructions that can be used to produce various kinds of output, including software applications. Examples include Python, Java, and C++."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "projects/{chatbot-9jvp}/agent/intents/variables",
+    "displayName": "Variables",
+    "trainingPhrases": [
+      {
+        "parts": [
+          {
+            "text": "What is a variable in programming?"
+          }
+        ]
+      }
+    ],
+    "messages": [
+      {
+        "text": {
+          "text": [
+            "A variable is a storage location identified by a name that can hold a value. Variables are used to store data that can be changed during program execution."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "projects/{chatbot-9jvp}/agent/intents/conditional_statements",
+    "displayName": "Conditional Statements",
+    "trainingPhrases": [
+      {
+        "parts": [
+          {
+            "text": "What are conditional statements?"
+          }
+        ]
+      }
+    ],
+    "messages": [
+      {
+        "text": {
+          "text": [
+            "Conditional statements are programming constructs that allow you to execute certain parts of code based on whether a condition is true or false. Examples include 'if', 'else if', and 'else' statements."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "projects/{chatbot-9jvp}/agent/intents/loops",
+    "displayName": "Loops",
+    "trainingPhrases": [
+      {
+        "parts": [
+          {
+            "text": "What is a loop in programming?"
+          }
+        ]
+      }
+    ],
+    "messages": [
+      {
+        "text": {
+          "text": [
+            "A loop is a programming construct that repeats a block of code as long as a specified condition is true. Common types of loops include 'for' loops and 'while' loops."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "projects/{chatbot-9jvp}/agent/intents/functions",
+    "displayName": "Functions",
+    "trainingPhrases": [
+      {
+        "parts": [
+          {
+            "text": "What is a function in programming?"
+          }
+        ]
+      }
+    ],
+    "messages": [
+      {
+        "text": {
+          "text": [
+            "A function is a block of code that performs a specific task and can be reused throughout a program. Functions can take inputs, called parameters, and can return a value."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "projects/{chatbot-9jvp}/agent/intents/debugging",
+    "displayName": "Debugging",
+    "trainingPhrases": [
+      {
+        "parts": [
+          {
+            "text": "What is debugging?"
+          }
+        ]
+      }
+    ],
+    "messages": [
+      {
+        "text": {
+          "text": [
+            "Debugging is the process of identifying and removing errors or bugs from a computer program. It involves testing and troubleshooting to ensure the program runs as intended."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "projects/{chatbot-9jvp}/agent/intents/software_development_lifecycle",
+    "displayName": "Software Development Lifecycle",
+    "trainingPhrases": [
+      {
+        "parts": [
+          {
+            "text": "What is the software development lifecycle?"
+          }
+        ]
+      }
+    ],
+    "messages": [
+      {
+        "text": {
+          "text": [
+            "The software development lifecycle (SDLC) is a process used by software developers to design, develop, test, and deploy software applications. It typically includes stages such as planning, analysis, design, implementation, testing, and maintenance."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "projects/{chatbot-9jvp}/agent/intents/website_design",
+    "displayName": "Website Design",
+    "trainingPhrases": [
+      {
+        "parts": [
+          {
+            "text": "What is website design?"
+          }
+        ]
+      }
+    ],
+    "messages": [
+      {
+        "text": {
+          "text": [
+            "Website design refers to the process of creating the visual layout and user experience of a website. It involves planning the structure, content, and aesthetics of the site."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "projects/{chatbot-9jvp}/agent/intents/html_css",
+    "displayName": "HTML and CSS",
+    "trainingPhrases":
+    [
+      {
+        "parts": [
+          {
+            "text": "What are HTML and CSS?"
+          }
+        ]
+      }
+    ],
+    "messages": [
+      {
+        "text": {
+          "text": [
+            "HTML (HyperText Markup Language) is the standard markup language for creating web pages, while CSS (Cascading Style Sheets) is used to style and layout web pages."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "projects/{chatbot-9jvp}/agent/intents/web_development",
+    "displayName": "Web Development",
+    "trainingPhrases": [
+      {
+        "parts": [
+          {
+            "text": "What is web development?"
+          }
+        ]
+      }
+    ],
+    "messages": [
+      {
+        "text": {
+          "text": [
+            "Web development is the process of building and maintaining websites. It includes aspects such as web design, web publishing, web programming, and database management."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "projects/{chatbot-9jvp}/agent/intents/mobile_app_development",
+    "displayName": "Mobile App Development",
+    "trainingPhrases": [
+      {
+        "parts": [
+          {
+            "text": "What is mobile app development?"
+          }
+        ]
+      }
+    ],
+    "messages": [
+      {
+        "text": {
+          "text": [
+            "Mobile app development is the process of creating software applications that run on mobile devices. It involves designing, coding, and testing applications for platforms like Android and iOS."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "projects/{chatbot-9jvp}/agent/intents/cloud_computing",
+    "displayName": "Cloud Computing",
+    "trainingPhrases": [
+      {
+        "parts": [
+          {
+            "text": "What is cloud computing?"
+          }
+        ]
+      }
+    ],
+    "messages": [
+      {
+        "text": {
+          "text": [
+            "Cloud computing is the delivery of computing services over the internet, allowing users to access and store data and applications on remote servers instead of local computers."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "projects/{chatbot-9jvp}/agent/intents/data_security",
+    "displayName": "Data Security",
+    "trainingPhrases": [
+      {
+        "parts": [
+          {
+            "text": "What is data security?"
+          }
+        ]
+      }
+    ],
+    "messages": [
+      {
+        "text": {
+          "text": [
+            "Data security refers to the practice of protecting digital information from unauthorized access, corruption, or theft throughout its entire lifecycle."
+          ]
+        }
+      }
+    ]
+  },
+  
+        {
+          "name": "projects/chatbot-9jvp/agent/intents/ethical_hacking",
+          "displayName": "Ethical Hacking",
+          "trainingPhrases": [
+            {
+              "parts": [
+                {
+                  "text": "What is ethical hacking?"
+                }
+              ]
+            }
+          ],
+          "messages": [
+            {
+              "text": {
+                "text": [
+                  "Ethical hacking involves legally breaking into computers and devices to test an organization's defenses. It helps identify vulnerabilities before malicious hackers can exploit them."
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "projects/chatbot-9jvp/agent/intents/robotics",
+          "displayName": "Robotics",
+          "trainingPhrases": [
+            {
+              "parts": [
+                {
+                  "text": "What is robotics?"
+                }
+              ]
+            }
+          ],
+          "messages": [
+            {
+              "text": {
+                "text": [
+                  "Robotics is a branch of technology that deals with the design, construction, operation, and use of robots. It combines elements of engineering, computer science, and artificial intelligence."
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "projects/chatbot-9jvp/agent/intents/artificial_intelligence",
+          "displayName": "Artificial Intelligence",
+          "trainingPhrases": [
+            {
+              "parts": [
+                {
+                  "text": "What is artificial intelligence?"
+                }
+              ]
+            }
+          ],
+          "messages": [
+            {
+              "text": {
+                "text": [
+                  "Artificial intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems. It includes learning, reasoning, and self-correction."
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "projects/chatbot-9jvp/agent/intents/machine_learning",
+          "displayName": "Machine Learning",
+          "trainingPhrases": [
+            {
+              "parts": [
+                {
+                  "text": "What is machine learning?"
+                }
+              ]
+            }
+          ],
+          "messages": [
+            {
+              "text": {
+                "text": [
+                  "Machine learning is a subset of artificial intelligence that involves the use of algorithms and statistical models to enable computers to improve their performance on a task through experience."
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "projects/chatbot-9jvp/agent/intents/data_analysis",
+          "displayName": "Data Analysis",
+          "trainingPhrases": [
+            {
+              "parts": [
+                {
+                  "text": "What is data analysis?"
+                }
+              ]
+            }
+          ],
+          "messages": [
+            {
+              "text": {
+                "text": [
+                  "Data analysis is the process of inspecting, cleansing, transforming, and modeling data to discover useful information, inform conclusions, and support decision-making."
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "projects/chatbot-9jvp/agent/intents/virtual_reality",
+          "displayName": "Virtual Reality",
+          "trainingPhrases": [
+            {
+              "parts": [
+                {
+                  "text": "What is virtual reality?"
+                }
+              ]
+            }
+          ],
+          "messages": [
+            {
+              "text": {
+                "text": [
+                  "Virtual reality (VR) is a simulated experience that can be similar to or completely different from the real world. It is achieved through the use of computer technology to create immersive environments."
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "projects/chatbot-9jvp/agent/intents/augmented_reality",
+          "displayName": "Augmented Reality",
+          "trainingPhrases": [
+            {
+              "parts": [
+                {
+                  "text": "What is augmented reality?"
+                }
+              ]
+            }
+          ],
+          "messages": [
+            {
+              "text": {
+                "text": [
+                  "Augmented reality (AR) is an interactive experience where real-world environments are enhanced by computer-generated perceptual information, often using a device's camera."
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "projects/chatbot-9jvp/agent/intents/3d_printing",
+          "displayName": "3D Printing",
+          "trainingPhrases": [
+            {
+              "parts": [
+                {
+                  "text": "What is 3D printing?"
+                }
+              ]
+            }
+          ],
+          "messages": [
+            {
+              "text": {
+                "text": [
+                  "3D printing is a process of creating three-dimensional objects from a digital file by layering materials. It is used in various industries, including manufacturing, healthcare, and education."
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "projects/chatbot-9jvp/agent/intents/blockchain",
+          "displayName": "Blockchain",
+          "trainingPhrases": [
+            {
+              "parts": [
+                {
+                  "text": "What is blockchain?"
+                }
+              ]
+            }
+          ],
+          "messages": [
+            {
+              "text": {
+                "text": [
+                  "Blockchain is a decentralized digital ledger that records transactions across many computers in a way that the registered transactions cannot be altered retroactively."
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "projects/chatbot-9jvp/agent/intents/internet_of_things",
+          "displayName": "Internet of Things",
+          "trainingPhrases": [
+            {
+              "parts": [
+                {
+                  "text": "What is the Internet of Things?"
+                }
+              ]
+            }
+          ],
+          "messages": [
+            {
+              "text": {
+                "text": [
+                  "The Internet of Things (IoT) refers to the network of physical objects that are embedded with sensors, software, and other technologies to connect and exchange data with other devices and systems over the internet."
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "projects/chatbot-9jvp/agent/intents/quantum_computing",
+          "displayName": "Quantum Computing",
+          "trainingPhrases": [
+            {
+              "parts": [
+                {
+                  "text": "What is quantum computing?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "messages":
+          [
+            {
+              "text": {
+                "text": [
+                  "Quantum computing is a type of computation that takes advantage of quantum mechanics to process information in fundamentally different ways than classical computers."
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "projects/chatbot-9jvp/agent/intents/ethical_ai",
+          "displayName": "Ethical AI",
+          "trainingPhrases": [
+            {
+              "parts": [
+                {
+                  "text": "What is ethical AI?"
+                }
+              ]
+            }
+          ],
+          "messages": [
+            {
+              "text": {
+                "text": [
+                  "Ethical AI refers to the practice of designing and implementing artificial intelligence systems that are fair, transparent, and accountable, ensuring they do not perpetuate bias or harm."
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "projects/chatbot-9jvp/agent/intents/biometrics",
+          "displayName": "Biometrics",
+          "trainingPhrases": [
+            {
+              "parts": [
+                {
+                  "text": "What are biometrics?"
+                }
+              ]
+            }
+          ],
+          "messages": [
+            {
+              "text": {
+                "text": [
+                  "Biometrics refers to the measurement and statistical analysis of people's unique physical and behavioral characteristics, often used for identification and access control."
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "projects/chatbot-9jvp/agent/intents/augmented_intelligence",
+          "displayName": "Augmented Intelligence",
+          "trainingPhrases": [
+            {
+              "parts": [
+                {
+                  "text": "What is augmented intelligence?"
+                }
+              ]
+            }
+          ],
+          "messages": [
+            {
+              "text": {
+                "text": [
+                  "Augmented intelligence is a design pattern for a human-centered partnership model of people and AI working together to enhance cognitive performance."
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "projects/chatbot-9jvp/agent/intents/edge_computing",
+          "displayName": "Edge Computing",
+          "trainingPhrases": [
+            {
+              "parts": [
+                {
+                  "text": "What is edge computing?"
+                }
+              ]
+            }
+          ],
+          "messages": [
+            {
+              "text": {
+                "text": [
+                  "Edge computing is a distributed computing paradigm that brings computation and data storage closer to the location where it is needed, improving response times and saving bandwidth."
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "projects/chatbot-9jvp/agent/intents/5g_technology",
+          "displayName": "5G Technology",
+          "trainingPhrases": [
+            {
+              "parts": [
+                {
+      
+      
+                  "text": "What is 5G technology?"
+                }
+              ]
+            }
+          ],
+          "messages": [
+            {
+              "text": {
+                "text": [
+                  "5G is the fifth generation of mobile network technology, offering faster speeds, lower latency, and the ability to connect more devices simultaneously."
+                ]
+              }
+            }
+          ]
+        }
+      ]
+
+  

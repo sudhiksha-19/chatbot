@@ -1,0 +1,23 @@
+{
+  "description": "CBSE 11th and 12th-grade educational chatbot for answering subject-related questions in Maths, Chemistry, Biology, and Computer Science.",
+  "language": "en",
+  "shortDescription": "CBSE Educational Chatbot",
+  "examples": "Ask questions about 11th and 12th-grade topics in Maths, Chemistry, Biology, and Computer Science.",
+  "linkToDocs": "",
+  "displayName": "CHATBOT",
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "defaultTimezone": "Asia/Almaty",
+  "isPrivate": true,
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "enableOnePlatformApi": true,
+  "onePlatformApiVersion": "v2",
+  "secondaryKey": "faaf51d87a80460c876540c01854f439",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": 0.0,
+  "dialogBuilderMode": false,
+  "baseActionPackagesUrl": "",
+  "enableSpellCorrection": false
+}
